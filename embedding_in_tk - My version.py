@@ -20,7 +20,6 @@ root = Tk.Tk()
 root.wm_title("Embedding in TK")
 #root.geometry("1300x1000")
 
-
 f = Figure(figsize=(5,4), dpi=100)
 a = f.add_subplot(111)
 t = arange(0.0,3.0,0.01)
